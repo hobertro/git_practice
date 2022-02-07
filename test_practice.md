@@ -11,3 +11,4 @@ Second commit on master after putting commits on test-branch-1
 # Try doing remote branch testing
 
 1. First commit on new branch
+2. Second commit on new branch
